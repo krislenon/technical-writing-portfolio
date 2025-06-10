@@ -1,5 +1,7 @@
 # Technical Writing Portfolio
 
+## Welcome
+I'm Kris Lenon, a content developer and former software engineer with a passion for simplifying complex systems through clear, user-focused documentation.
 This portfolio was created to demonstrate my technical writing capabilities for roles in IT, education technology, or software documentation. All samples are original work based on my real-world experience or realistic mock projects.
 
 ## Samples
