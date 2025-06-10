@@ -8,3 +8,5 @@ This portfolio showcases selected writing samples with a focus on software and I
    - Guide for installing Git and cloning a repository on Windows
 2. [Content Review Workflow – Internal Guide](https://github.com/krislenon/content-review-workflow)  
    - Internal documentation for standardizing academic content review procedures
+3. [TutorReview Tool – Release Notes (Mock)](https://github.com/krislenon/tutorreview-release-notes)  
+   - Mock release notes for a fictional internal tool, demonstrating structure and clarity in software updates.
