@@ -10,3 +10,7 @@ This portfolio showcases selected writing samples with a focus on software and I
    - Internal documentation for standardizing academic content review procedures
 3. [TutorReview Tool – Release Notes (Mock)](https://github.com/krislenon/tutorreview-release-notes)  
    - Mock release notes for a fictional internal tool, demonstrating structure and clarity in software updates.
+  
+## 📌 About This Portfolio
+
+This portfolio was created to demonstrate my technical writing capabilities for roles in IT, education technology, or software documentation. All samples are original work based on my real-world experience or realistic mock projects.
